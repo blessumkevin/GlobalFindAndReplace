@@ -8,9 +8,9 @@ rules:
             - xml
         regex_name: 'apiVersion-tag' 
         replace_values:
-            - 48.0
+            - 63.0
         branches:
-        replace_with: '<apiVersion>47.0</apiVersion>'
+        replace_with: '<apiVersion>62.0</apiVersion>'
         
     invalid_user_permissions: 
         extensions: # if you want to apply the rule to types of files, list the file extension names here.
