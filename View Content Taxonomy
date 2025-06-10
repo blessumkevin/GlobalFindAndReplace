@@ -11,6 +11,6 @@ rules:
             - permissionset
         regex_name: 'user-permission' 
         replace_values: 
-            - View Content Taxonomy
+            - ViewContentTaxonomy
         branches:
         replace_with:
